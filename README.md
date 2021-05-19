@@ -44,8 +44,8 @@ Final solution for desktop and mobile.
 
 ### Links
 
-- Code Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [Hosted on Vercel](https://your-live-site-url.com)
+- Code Solution URL: [GitHub](https://github.com/adityavinodh/stats-preview-card-component)
+- Live Site URL: [Hosted on Vercel](https://stats-preview-card-component-rho.vercel.app/)
 
 ## My process
 
